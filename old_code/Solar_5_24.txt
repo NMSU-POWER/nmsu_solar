@@ -1,0 +1,129 @@
+Start Time: 13:30:47
+Time: 13:30:51
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.883 6.869 6.834 6.845
+DCMeter-2 Voltages: 6.787 6.836 6.859 6.717
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 30.2374918206 30.7651963061 30.8707372032 31.7150643799
+Therm-1 Panel Temp: 58.1002886544 59.3667794195 58.7335340369 60.949892876
+Time: 13:30:56
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.884 6.869 6.834 6.844
+DCMeter-2 Voltages: 6.788 6.836 6.859 6.717
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 30.659655409 31.3984416887 31.820605277 32.876014248
+Therm-1 Panel Temp: 57.8892068602 59.2612385224 59.0501567282 61.2665155673
+Time: 13:31:1
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.887 6.871 6.836 6.844
+DCMeter-2 Voltages: 6.792 6.839 6.861 6.717
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 30.5541145119 31.2929007916 31.9261461741 32.9815551451
+Therm-1 Panel Temp: 57.4670432718 58.839074934 58.9446158311 61.3720564644
+Time: 13:31:6
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.894 6.875 6.84 6.846
+DCMeter-2 Voltages: 6.798 6.843 6.866 6.721
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 30.1319509235 31.5039825858 31.820605277 32.9815551451
+Therm-1 Panel Temp: 55.9894707124 58.4169113456 57.7836659631 60.4221883905
+Time: 13:31:11
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.897 6.878 6.845 6.851
+DCMeter-2 Voltages: 6.803 6.846 6.87 6.724
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 29.7097873351 31.3984416887 31.2929007916 32.5593915567
+Therm-1 Panel Temp: 55.9894707124 58.5224522427 56.9393387863 60.1055656992
+Time: 13:31:16
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.902 6.883 6.851 6.856
+DCMeter-2 Voltages: 6.806 6.85 6.875 6.73
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 29.9208691293 31.1873598945 30.7651963061 31.9261461741
+Therm-1 Panel Temp: 56.622716095 57.678125066 56.9393387863 58.9446158311
+Time: 13:31:21
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.902 6.883 6.851 6.857
+DCMeter-2 Voltages: 6.805 6.849 6.876 6.73
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 30.1319509235 31.6095234828 31.0818189974 31.9261461741
+Therm-1 Panel Temp: 57.2559614776 58.5224522427 57.8892068602 60.2111065963
+Time: 13:31:26
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.905 6.884 6.851 6.856
+DCMeter-2 Voltages: 6.809 6.85 6.876 6.729
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 30.2374918206 31.820605277 31.6095234828 32.4538506596
+Therm-1 Panel Temp: 56.5171751979 57.9947477573 57.5725841689 60.1055656992

@@ -1,0 +1,609 @@
+Start Time: 14:41:56
+Time: 14:42:1
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.85 6.815 6.788 6.776
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 34.8812912929 35.1979139842 34.4591277045 35.5145366755
+Therm-1 Panel Temp: 59.6834021108 456.306093404 59.894483905 63.5884153034
+Time: 14:42:6
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.847 6.814 6.786 6.776
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 35.0923730871 35.3034548813 34.2480459103 34.98683219
+Therm-1 Panel Temp: 60.0000248021 456.306093404 59.894483905 63.5884153034
+Time: 14:42:11
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.845 6.813 6.785 6.775
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 35.4089957784 35.5145366755 34.2480459103 34.8812912929
+Therm-1 Panel Temp: 60.2111065963 456.306093404 60.3166474934 63.6939562005
+Time: 14:42:16
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.842 6.811 6.783 6.774
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 35.7256184697 35.6200775726 34.6702094987 35.3034548813
+Therm-1 Panel Temp: 60.3166474934 456.306093404 60.3166474934 63.7994970976
+Time: 14:42:21
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.84 6.808 6.782 6.774
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 36.0422411609 36.0422411609 34.98683219 35.9367002639
+Therm-1 Panel Temp: 60.3166474934 456.306093404 59.894483905 63.4828744063
+Time: 14:42:26
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.839 6.809 6.782 6.774
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 35.9367002639 35.5145366755 34.4591277045 35.6200775726
+Therm-1 Panel Temp: 60.0000248021 456.306093404 59.6834021108 63.166251715
+Time: 14:42:31
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.838 6.808 6.781 6.773
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 121.95139514 121.490549055 121.332133213
+ACMeter-1 Currents: 0.979097909791 1.11211121112 1.19611961196
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 35.7256184697 35.6200775726 34.5646686016 35.9367002639
+Therm-1 Panel Temp: 60.2111065963 456.306093404 60.1055656992 63.7994970976
+Time: 14:42:36
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.836 6.805 6.78 6.771
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.0090009 121.533753375 121.389738974
+ACMeter-1 Currents: 0.981098109811 1.11411141114 1.19911991199
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 35.5145366755 35.5145366755 34.5646686016 36.0422411609
+Therm-1 Panel Temp: 60.4221883905 456.306093404 60.2111065963 64.0105788918
+Time: 14:42:41
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.836 6.805 6.779 6.771
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 121.98019802 121.562556256 121.360936094
+ACMeter-1 Currents: 0.980098009801 1.11411141114 1.19811981198
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 35.0923730871 35.4089957784 34.7757503958 36.0422411609
+Therm-1 Panel Temp: 59.4723203166 456.306093404 59.6834021108 64.1161197889
+Time: 14:42:46
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.837 6.805 6.779 6.769
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.0090009 121.562556256 121.375337534
+ACMeter-1 Currents: 0.981098109811 1.11411141114 1.19911991199
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.5646686016 34.7757503958 34.98683219 36.147782058
+Therm-1 Panel Temp: 59.2612385224 456.306093404 60.0000248021 64.0105788918
+Time: 14:42:51
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.837 6.805 6.778 6.768
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 121.98019802 121.548154815 121.389738974
+ACMeter-1 Currents: 0.981098109811 1.11411141114 1.19911991199
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 33.931423219 34.6702094987 35.0923730871 36.2533229551
+Therm-1 Panel Temp: 58.9446158311 456.306093404 60.0000248021 64.221660686
+Time: 14:42:56
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.839 6.805 6.779 6.768
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.03780378 121.591359136 121.447344734
+ACMeter-1 Currents: 0.982098209821 1.11511151115 1.20112011201
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 33.2981778364 34.4591277045 34.98683219 36.3588638522
+Therm-1 Panel Temp: 58.5224522427 456.306093404 59.7889430079 64.0105788918
+Time: 14:43:1
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.84 6.808 6.782 6.771
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.03780378 121.605760576 121.447344734
+ACMeter-1 Currents: 0.982098209821 1.11611161116 1.20112011201
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 33.4037187335 34.6702094987 34.5646686016 35.9367002639
+Therm-1 Panel Temp: 58.6279931398 456.306093404 58.839074934 63.0607108179
+Time: 14:43:6
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.84 6.808 6.783 6.773
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.066606661 121.634563456 121.476147615
+ACMeter-1 Currents: 0.983098309831 1.11711171117 1.20212021202
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 33.6148005277 34.7757503958 34.4591277045 35.4089957784
+Therm-1 Panel Temp: 58.839074934 456.306093404 58.7335340369 62.8496290237
+Time: 14:43:11
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.841 6.808 6.783 6.772
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.066606661 121.634563456 121.490549055
+ACMeter-1 Currents: 0.983098309831 1.11611161116 1.20212021202
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 33.7203414248 34.6702094987 33.931423219 35.3034548813
+Therm-1 Panel Temp: 58.5224522427 456.306093404 58.7335340369 62.9551699208
+Time: 14:43:16
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.84 6.808 6.783 6.772
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.03780378 121.605760576 121.447344734
+ACMeter-1 Currents: 0.981098109811 1.11611161116 1.200120012
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 33.7203414248 34.6702094987 33.8258823219 35.3034548813
+Therm-1 Panel Temp: 58.839074934 456.306093404 59.4723203166 63.0607108179
+Time: 14:43:21
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.839 6.807 6.781 6.77
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.052205221 121.605760576 121.432943294
+ACMeter-1 Currents: 0.983098309831 1.11611161116 1.20112011201
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.0369641161 34.6702094987 33.5092596306 35.4089957784
+Therm-1 Panel Temp: 59.2612385224 456.306093404 59.2612385224 63.3773335092
+Time: 14:43:26
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.837 6.805 6.781 6.77
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.0090009 121.591359136 121.432943294
+ACMeter-1 Currents: 0.983098309831 1.11711171117 1.20212021202
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.2480459103 34.98683219 33.7203414248 35.1979139842
+Therm-1 Panel Temp: 59.4723203166 456.306093404 59.2612385224 63.4828744063
+Time: 14:43:31
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.837 6.805 6.781 6.77
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.0090009 121.605760576 121.447344734
+ACMeter-1 Currents: 0.983098309831 1.11711171117 1.20212021202
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.1425050132 34.98683219 33.5092596306 35.0923730871
+Therm-1 Panel Temp: 59.1556976253 456.306093404 59.3667794195 63.3773335092
+Time: 14:43:36
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.836 6.804 6.78 6.768
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.02340234 121.620162016 121.447344734
+ACMeter-1 Currents: 0.983098309831 1.11811181118 1.20312031203
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.2480459103 35.1979139842 33.4037187335 35.1979139842
+Therm-1 Panel Temp: 59.1556976253 456.306093404 59.2612385224 63.4828744063
+Time: 14:43:41
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.835 6.803 6.779 6.767
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.0090009 121.591359136 121.447344734
+ACMeter-1 Currents: 0.983098309831 1.11711171117 1.20312031203
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 33.931423219 35.3034548813 33.7203414248 35.5145366755
+Therm-1 Panel Temp: 58.839074934 456.306093404 59.4723203166 63.7994970976
+Time: 14:43:46
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.834 6.802 6.778 6.766
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.0090009 121.576957696 121.418541854
+ACMeter-1 Currents: 0.982098209821 1.11611161116 1.20212021202
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.1425050132 35.6200775726 33.8258823219 35.8311593668
+Therm-1 Panel Temp: 59.3667794195 456.306093404 59.894483905 63.6939562005
+Time: 14:43:51
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.833 6.801 6.777 6.765
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 121.99459946 121.562556256 121.404140414
+ACMeter-1 Currents: 0.981098109811 1.11511151115 1.200120012
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.3535868074 35.6200775726 33.931423219 36.0422411609
+Therm-1 Panel Temp: 59.5778612137 456.306093404 59.6834021108 63.7994970976
+Time: 14:43:56
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.833 6.801 6.777 6.765
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 121.98019802 121.548154815 121.447344734
+ACMeter-1 Currents: 0.980098009801 1.11411141114 1.20112011201
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.5646686016 35.5145366755 33.931423219 36.0422411609
+Therm-1 Panel Temp: 59.6834021108 456.306093404 59.5778612137 63.7994970976
+Time: 14:44:1
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.833 6.802 6.778 6.766
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 122.02340234 121.576957696 121.418541854
+ACMeter-1 Currents: 0.981098109811 1.11411141114 1.19911991199
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.8812912929 35.8311593668 34.3535868074 36.2533229551
+Therm-1 Panel Temp: 59.5778612137 456.306093404 59.0501567282 63.2717926121
+Time: 14:44:6
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.836 6.805 6.783 6.771
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 121.98019802 121.548154815 121.418541854
+ACMeter-1 Currents: 0.979097909791 1.11311131113 1.19811981198
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 34.8812912929 35.9367002639 34.2480459103 35.9367002639
+Therm-1 Panel Temp: 59.2612385224 456.306093404 58.9446158311 62.7440881266
+Time: 14:44:11
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.837 6.805 6.784 6.772
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 121.98019802 121.562556256 121.404140414
+ACMeter-1 Currents: 0.979097909791 1.11311131113 1.19911991199
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 35.0923730871 35.9367002639 34.4591277045 35.8311593668
+Therm-1 Panel Temp: 59.7889430079 456.306093404 58.839074934 63.2717926121
+Time: 14:44:16
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.836 6.807 6.785 6.774
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: 121.95139514 121.562556256 121.404140414
+ACMeter-1 Currents: 0.980098009801 1.11411141114 1.19911991199
+ACMeter-1 Power: 16.8496849685 17.7137713771 17.7137713771
+Therm-1 Ambient Temp: 35.3034548813 35.9367002639 34.6702094987 35.7256184697
+Therm-1 Panel Temp: 59.6834021108 456.306093404 58.9446158311 62.9551699208
+Time: 14:44:21
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.839 6.81 6.788 6.776
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 35.1979139842 35.7256184697 34.3535868074 35.7256184697
+Therm-1 Panel Temp: 59.2612385224 456.306093404 58.2058295515 62.6385472296
+Time: 14:44:26
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.842 6.813 6.792 6.779
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 34.8812912929 35.0923730871 34.3535868074 35.8311593668
+Therm-1 Panel Temp: 58.9446158311 456.306093404 57.7836659631 62.4274654354
+Time: 14:44:31
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.842 6.816 6.793 6.782
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 34.6702094987 35.1979139842 34.4591277045 35.6200775726
+Therm-1 Panel Temp: 59.3667794195 456.306093404 58.1002886544 62.1108427441
+Time: 14:44:36
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.841 6.815 6.792 6.781
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 34.8812912929 35.5145366755 34.98683219 35.8311593668
+Therm-1 Panel Temp: 59.1556976253 456.306093404 58.7335340369 62.3219245383
+Time: 14:44:41
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.841 6.814 6.791 6.78
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 34.6702094987 35.5145366755 35.5145366755 36.147782058
+Therm-1 Panel Temp: 58.7335340369 456.306093404 59.0501567282 63.166251715
+Time: 14:44:46
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.843 6.816 6.791 6.78
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 34.8812912929 35.4089957784 35.8311593668 36.4644047493
+Therm-1 Panel Temp: 58.9446158311 456.306093404 59.0501567282 62.8496290237
+Time: 14:44:51
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.844 6.817 6.793 6.782
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 34.8812912929 35.5145366755 35.3034548813 36.2533229551
+Therm-1 Panel Temp: 58.9446158311 456.306093404 58.839074934 62.7440881266
+Time: 14:44:56
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.844 6.817 6.794 6.783
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 35.0923730871 35.9367002639 35.3034548813 36.4644047493
+Therm-1 Panel Temp: 59.2612385224 456.306093404 58.4169113456 62.8496290237
+Time: 14:45:1
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.846 6.819 6.795 6.784
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: 34.98683219 35.6200775726 35.0923730871 36.4644047493
+Therm-1 Panel Temp: 58.7335340369 456.306093404 57.9947477573 62.7440881266
+Time: 14:45:6
+MI-1 Current=0.0A
+SP-4 Current=0.0A
+MI-2 Current=0.0A
+SP-2 Current=nanA
+SP-3 Current=nanA
+SP-1 Current=0.0A
+MI-3 Current=nanA
+MI-4 Current=0.0A
+DCMeter-1 Voltages: 6.847 6.821 6.798 6.786
+DCMeter-2 Voltages: 0.0 0.0 0.0 0.0
+ACMeter-1 Volatges: nan nan nan
+ACMeter-1 Currents: nan nan nan
+ACMeter-1 Power: nan nan nan
+Therm-1 Ambient Temp: nan nan nan nan
+Therm-1 Panel Temp: nan nan nan nan
