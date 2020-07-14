@@ -1706,7 +1706,7 @@ def Write_2_File():
     #ACMETER_VA,ACMETER_VB,ACMETER_VC,ACMETER_IA,ACMETER_IB,ACMETER_IC,ACMETER_PA,ACMETER_PB,ACMETER_PC,Therm-1_.IN0,Therm-1_.IN1,Therm-1_.IN2,
     #Therm-1_.IN3,Therm-1_.IN4,Therm-1_.IN5,Therm-1_.IN6,Therm-1_.IN7
     TimeMark=datetime.datetime.now()
-    FileName='Solar_'+str(TimeMark.month)+'_'+str(TimeMark.day)+'.csv'
+    FileName='Solar_'+str(TimeMark.month)+'_'+str(TimeMark.day)+'_'+str(TimeMark.year)+'.csv'
     f=open(Dir+FileName,'a+')
     f.write(str(TimeMark.hour)+','+str(TimeMark.minute)+','+str(TimeMark.second)+',')
     f.write(str(Obj[4].I)+','+str(Obj[5].I)+','+str(Obj[6].I)+','+str(Obj[7].I)+',')
