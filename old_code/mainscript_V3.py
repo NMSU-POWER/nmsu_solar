@@ -37,7 +37,7 @@ for name in THERM.keys():
 SerialObj=RxTx_Object('NMSU Measurments')
 Obj=Read_Meters(Obj)
 for i in range(len(Obj)):
-    print Obj[i].Name
+    print(Obj[i].Name)
 TimeMark=datetime.datetime.now()
 Dir="C:\\Users\\nmsupower\\Desktop\\Solar_Data\\"
 Hold_FileName='Solar_'+str(TimeMark.month)+'_'+str(TimeMark.day)+'.csv'
@@ -1196,7 +1196,7 @@ class Ui_TabWidget(object):
             self.Panel_1_Curve2=self.PLotHolder.plot(self.Data[5]['P1'],pen=(85, 255, 255))
         else:
             self.PLotHolder.plot(clear=True)
-            # print 'p1'
+            # print('p1')
     def Panel2_change(self,i,set=True):
         _translate = QtCore.QCoreApplication.translate
         self.SelectPlot_2=i
@@ -1237,7 +1237,7 @@ class Ui_TabWidget(object):
             self.Panel_2_Curve2=self.PLotHolder_2.plot(self.Data[5]['P2'],pen=(85, 255, 255))
         else:
             self.PLotHolder_2.plot(clear=True)
-            # print 'p2'
+            # print('p2')
     def Panel3_change(self,i,set=True):
         _translate = QtCore.QCoreApplication.translate
         self.SelectPlot_3=i
@@ -1278,7 +1278,8 @@ class Ui_TabWidget(object):
             self.Panel_3_Curve2=self.PLotHolder_3.plot(self.Data[5]['P3'],pen=(85, 255, 255))
         else:
             self.PLotHolder_3.plot(clear=True)
-            # print 'p3'
+            # print('p3')
+
     def Panel4_change(self,i,set=True):
         _translate = QtCore.QCoreApplication.translate
         self.SelectPlot_4=i
@@ -1321,7 +1322,8 @@ class Ui_TabWidget(object):
             self.Panel_4_Curve2=self.PLotHolder_4.plot(self.Data[5]['P4'],pen=(85, 255, 255))
         else:
             self.PLotHolder_4.plot(clear=True)
-            # print 'p4'
+            # print('p4')
+
     def Main1_change(self,i,set=True):
         _translate = QtCore.QCoreApplication.translate
         self.SelectPlot_5=i
@@ -1398,7 +1400,8 @@ class Ui_TabWidget(object):
             self.Panel_5_Curve4=self.PLotHolder_7.plot(self.Data[5]['A4'],pen='b')
         else:
             self.PLotHolder_7.plot(clear=True)
-            # print 'Clear'
+            # print('Clear')
+            
     def Main2_change(self,i,set=True):
         _translate = QtCore.QCoreApplication.translate
         self.SelectPlot_6=i
@@ -1585,14 +1588,14 @@ class DataThread(QThread):
                     Hold_FileName=FileName
                 for i in range(len(Obj)):
                     if 'MI' in Obj[i].Name:
-                        print Obj[i].Name+' Current='+str(Obj[i].I)+'A'
+                        print(Obj[i].Name+' Current='+str(Obj[i].I)+'A')
                         if Obj[i].Name in self.MI_Data:
                             self.MI_Data[Obj[i].Name].append(Obj[i].I)
                         else:
                             self.MI_Data[Obj[i].Name]=[]
                             self.MI_Data[Obj[i].Name].append(Obj[i].I)
                     if 'DCMeter-1' in Obj[i].Name:
-                        print Obj[i].Name+' Voltages: '+str(Obj[i].V1*6)+' '+str(Obj[i].V2*6)+' '+str(Obj[i].V3*6)+' '+str(Obj[i].V4*6)
+                        print(Obj[i].Name+' Voltages: '+str(Obj[i].V1*6)+' '+str(Obj[i].V2*6)+' '+str(Obj[i].V3*6)+' '+str(Obj[i].V4*6))
                         if len(self.DC1_Data)>0:
                             self.DC1_Data['V1'].append(Obj[i].V1*6)
                             self.DC1_Data['V2'].append(Obj[i].V2*6)
@@ -1608,7 +1611,7 @@ class DataThread(QThread):
                             self.DC1_Data['V4']=[]
                             self.DC1_Data['V4'].append(Obj[i].V4*6)
                     if 'DCMeter-2' in Obj[i].Name:
-                        print Obj[i].Name+' Voltages: '+str(Obj[i].V1*6)+' '+str(Obj[i].V2*6)+' '+str(Obj[i].V3*6)+' '+str(Obj[i].V4*6)
+                        print(Obj[i].Name+' Voltages: '+str(Obj[i].V1*6)+' '+str(Obj[i].V2*6)+' '+str(Obj[i].V3*6)+' '+str(Obj[i].V4*6))
                         if len(self.DC2_Data)>0:
                             self.DC2_Data['V1'].append(Obj[i].V1*6)
                             self.DC2_Data['V2'].append(Obj[i].V2*6)
@@ -1624,9 +1627,9 @@ class DataThread(QThread):
                             self.DC2_Data['V4']=[]
                             self.DC2_Data['V4'].append(Obj[i].V4*6)
                     if 'ACMeter-1' in Obj[i].Name:
-                        print Obj[i].Name+' Volatges: '+str(Obj[i].Va)+' '+str(Obj[i].Vb)+' '+str(Obj[i].Vc)
-                        print Obj[i].Name+' Currents: '+str(Obj[i].Ia)+' '+str(Obj[i].Ib)+' '+str(Obj[i].Ic)
-                        print Obj[i].Name+' Power: '+str(Obj[i].kWa)+' '+str(Obj[i].kWb)+' '+str(Obj[i].kWc)
+                        print(Obj[i].Name+' Volatges: '+str(Obj[i].Va)+' '+str(Obj[i].Vb)+' '+str(Obj[i].Vc))
+                        print(Obj[i].Name+' Currents: '+str(Obj[i].Ia)+' '+str(Obj[i].Ib)+' '+str(Obj[i].Ic))
+                        print(Obj[i].Name+' Power: '+str(Obj[i].kWa)+' '+str(Obj[i].kWb)+' '+str(Obj[i].kWc))
                         if len(self.AC_Data.keys())>0:
                             self.AC_Data['Ia'].append(Obj[i].Ia)
                             self.AC_Data['Ib'].append(Obj[i].Ib)
@@ -1657,15 +1660,15 @@ class DataThread(QThread):
                             self.AC_Data['kWc']=[]
                             self.AC_Data['kWc'].append(Obj[i].kWc) 
                     if 'SP' in Obj[i].Name:
-                        print Obj[i].Name+' Current='+str(Obj[i].I)+'A'
+                        print(Obj[i].Name+' Current='+str(Obj[i].I)+'A')
                         if Obj[i].Name in self.SP_Data:
                             self.SP_Data[Obj[i].Name].append(Obj[i].I)
                         else:
                             self.SP_Data[Obj[i].Name]=[]
                             self.SP_Data[Obj[i].Name].append(Obj[i].I)
                     if 'Therm'in Obj[i].Name:
-                        print Obj[i].Name+' Ambient Temp: '+str(Obj[i].IN0)+' '+str(Obj[i].IN1)+' '+str(Obj[i].IN2)+' '+str(Obj[i].IN3)
-                        print Obj[i].Name+' Panel Temp: '+str(Obj[i].IN4)+' '+str(Obj[i].IN5)+' '+str(Obj[i].IN6)+' '+str(Obj[i].IN7)
+                        print(Obj[i].Name+' Ambient Temp: '+str(Obj[i].IN0)+' '+str(Obj[i].IN1)+' '+str(Obj[i].IN2)+' '+str(Obj[i].IN3))
+                        print(Obj[i].Name+' Panel Temp: '+str(Obj[i].IN4)+' '+str(Obj[i].IN5)+' '+str(Obj[i].IN6)+' '+str(Obj[i].IN7))
                         if len(self.Temp_Data)>0:
                             self.Temp_Data['A1'].append(Obj[i].IN0)
                             self.Temp_Data['A2'].append(Obj[i].IN1)
@@ -1692,7 +1695,7 @@ class DataThread(QThread):
                             self.Temp_Data['P3'].append(Obj[i].IN6)
                             self.Temp_Data['P4']=[]
                             self.Temp_Data['P4'].append(Obj[i].IN7)   
-                print '#####################################################################'        
+                print('#####################################################################')
                 Marker=False              
                 self.Blank.append(np.nan)
                 data=[self.SP_Data,self.MI_Data,self.DC1_Data,self.DC2_Data,self.AC_Data,self.Temp_Data,self.Time_String]
@@ -1707,7 +1710,7 @@ def Write_2_File():
     #Therm-1_.IN3,Therm-1_.IN4,Therm-1_.IN5,Therm-1_.IN6,Therm-1_.IN7
     TimeMark=datetime.datetime.now()
     FileName='Solar_'+str(TimeMark.month)+'_'+str(TimeMark.day)+'_'+str(TimeMark.year)+'.csv'
-    f=open(Dir+FileName,'a+')
+    f=open(Dir + FileName,'a+')
     f.write(str(TimeMark.hour)+','+str(TimeMark.minute)+','+str(TimeMark.second)+',')
     f.write(str(Obj[4].I)+','+str(Obj[5].I)+','+str(Obj[6].I)+','+str(Obj[7].I)+',')
     f.write(str(Obj[0].I)+','+str(Obj[1].I)+','+str(Obj[2].I)+','+str(Obj[4].I)+',')
